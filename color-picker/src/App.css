@@ -1,0 +1,25 @@
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
+.color-box{
+  margin-top: 200px;
+  background-color: yellow;
+  width: 300px;
+  height: 200px;
+  flex-wrap: wrap;
+}
+
+
+.guesses{
+  margin-top: 1%;
+}
+
+.guess-button{
+  width: 90px;
+  height: 30px;
+  margin-right: 10px;
+  margin-left : 10px;
+}
