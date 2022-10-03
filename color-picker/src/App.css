@@ -23,3 +23,13 @@
   margin-right: 10px;
   margin-left : 10px;
 }
+
+.success{
+  color: green;
+  font-size: 24pt;
+}
+
+.error{
+  color: red;
+  font-size: 24pt;
+}
